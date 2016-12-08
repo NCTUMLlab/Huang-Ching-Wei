@@ -4,14 +4,8 @@
 
 
 
-We first breiefly describe the content of each folder. For detail, please see the Readme.txt in each folder.
-Folder-Dataset:
-Here contains code for data genearation and data preprocessing.
-We use three data set: Inter-Twining Moon(Synthetic Data), Office(Image), Amazon Reviews(Seniment).
-In this project we don't contatins the data of Office and Amazton Reviews.
-Please download from the provider website.
-Office : https://cs.stanford.edu/~jhoffman/domainadapt/#datasets_code (please download the Office-Caltech)
-Amazon Reviews : https://www.cs.jhu.edu/~mdredze/datasets/sentiment/ (please download the processed_acl.tar.gz)
+- We first breiefly describe the content of each folder. For detail, please see the Readme.txt in each folder.
+    -Folder-Dataset:Here contains code for data genearation and data preprocessing.We use three data set: Inter-Twining Moon(Synthetic  Data), Office(Image), Amazon Reviews(Seniment).In this project we don't contatins the data of Office and Amazton Reviews. Please download from the provider website. Office : https://cs.stanford.edu/~jhoffman/domainadapt/#datasets_code (please download the Office-Caltech) Amazon Reviews : https://www.cs.jhu.edu/~mdredze/datasets/sentiment/ (please download the processed_acl.tar.gz)
 
 
 
