@@ -1,7 +1,12 @@
 # Huang-Ching-Wei
+
+=============
+
 This project contains source code for Dataset, Model, Testing and some utilization used in Deep Variational Transfer Learning and Classification(DVTLC).
 We use Python2 and run on Ubunto, we also use the following library: Theano, matplotlib, scikit-learn(optional).
 Please make sure you already install these library before runing the project.
+
+=============
 
 We first breiefly describe the content of each folder. For detail, please see the Readme.txt in each folder.
 Folder-Dataset:
@@ -11,6 +16,8 @@ In this project we don't contatins the data of Office and Amazton Reviews.
 Please download from the provider website.
 Office : https://cs.stanford.edu/~jhoffman/domainadapt/#datasets_code (please download the Office-Caltech)
 Amazon Reviews : https://www.cs.jhu.edu/~mdredze/datasets/sentiment/ (please download the processed_acl.tar.gz)
+
+=============
 
 Folder-Model:
 Here contains code for model construction.
@@ -28,10 +35,14 @@ For the proposed model, we have
 Variational Adversarial Neural Network
 Variational Learning for Domain Features
 
+=============
+
 Folder-Experiment:
 Here contains the testing code for experiment.
 One can just consider the codes as a example that how to use the model and training.
 We also makes some tool to visualize trained features and results to help evaulating the models.
+
+=============
 
 !! Before run the code, please change the path of dataset file and the path of Folder Model in the following codes: every testing codes, XXFeaturePlot.py and DataPackage.py in Amazon_Reviews.
 And create Folder named "Experimental_Result" at each folders of experiments
