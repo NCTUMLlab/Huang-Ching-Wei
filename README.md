@@ -1,7 +1,5 @@
 # Huang-Ching-Wei
 
-=============
-
 This project contains source code for Dataset, Model, Testing and some utilization used in Deep Variational Transfer Learning and Classification(DVTLC).
 We use Python2 and run on Ubunto, we also use the following library: Theano, matplotlib, scikit-learn(optional).
 Please make sure you already install these library before runing the project.
