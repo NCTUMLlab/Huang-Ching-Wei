@@ -21,17 +21,13 @@ Except the proposed model, we also bulid the following model for comparison:
 
 Deep Nerual Network
 
-Deep Domain Confusion Maximizing for Domain Invariance
-    https://arxiv.org/abs/1412.3474
+Deep Domain Confusion Maximizing for Domain Invariance  https://arxiv.org/abs/1412.3474
     
-[MLSP 2015]Deep semi-supervised learning for domain adaptation
-    http://ieeexplore.ieee.org/document/7324325/?arnumber=7324325&tag=1
+[MLSP 2015]Deep semi-supervised learning for domain adaptation  http://ieeexplore.ieee.org/document/7324325/?arnumber=7324325&tag=1
     
-[JMLR 2016]Domain-Adversarial Training of Neural Networks
-    http://jmlr.csail.mit.edu/papers/volume17/15-239/15-239.pdf
+[JMLR 2016]Domain-Adversarial Training of Neural Networks   http://jmlr.csail.mit.edu/papers/volume17/15-239/15-239.pdf
     
-[ICLR 2016]The Variational Fair Autoencoder
-    https://arxiv.org/abs/1511.00830
+[ICLR 2016]The Variational Fair Autoencoder https://arxiv.org/abs/1511.00830
     
 For the proposed model, we have Variational Adversarial Neural Network and Variational Learning for Domain Features.
 
